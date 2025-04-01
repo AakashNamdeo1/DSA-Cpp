@@ -1,5 +1,5 @@
 //product of an an array except self 
-//using brute force approach
+//using optimal approach with timme complexity of O(n)
 #include <iostream>
 #include<vector>
 using namespace std;
